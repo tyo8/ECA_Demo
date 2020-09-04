@@ -8,7 +8,7 @@ More detail on the reconstruction algorithm and input/output data strucutres can
 
 ## Installation
 
-Download and unzip **Demo.zip**, preferably in a folder on the MATLAB path.
+Zip and download ECA_demo and extract into a location on the MATLAB path. To keep only the simulation and reconstruction kernels, download the contents of **ECA_demo/Demo/demo_fctns**, avoiding **AP Phantom Functions** and **Paths**.
 
 ## Usage
 
