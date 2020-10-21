@@ -12,4 +12,4 @@ The datasets in this folder were designed to run the reconstruction algorithm on
 
 ## Usage
 
-The datasets in this folder are provided for transparency and reproducibility. They may not be used for other purposes without explicit permission of the authors.
+The datasets in this folder are provided for transparency and reproducibility. They may not be used for other purposes without the explicit permission of the authors.
