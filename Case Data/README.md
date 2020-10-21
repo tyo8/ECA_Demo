@@ -1,6 +1,6 @@
 # Case Data
 
-Case Data is a MATLAB datafile repository that holds the data cited in ##ref##.
+Case Data is a MATLAB datafile repository that holds the data cited in **ref**.
 
 Each MATLAB file "Case_#.mat" contains all of the variables necessary to run the full simulation and reconstruction pipelines.
 
