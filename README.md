@@ -1,4 +1,4 @@
-T Easley, Z Ren, B Kim, G Karczmar, RF Barber, FD Pineda.
+T. Easley, Z. Ren, B. Kim, G. Karczmar, R.F. Barber, F.D. Pineda.
 
 Nov. 2, 2020
 
