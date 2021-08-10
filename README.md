@@ -27,8 +27,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
  
-### Funding Information
-This research was funded by:
+### Associated Grants:
 
 DMS-1654076 (National Science Foundation)
 
