@@ -25,3 +25,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+This research was funded by the following grants:
+DMS-1654076 (National Science Foundation)
+5R01CA218700-04 (National Institutes of Health)
